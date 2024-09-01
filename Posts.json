@@ -1,0 +1,114 @@
+
+   [
+     {
+      "id": 1,
+      "title": "The Future of AI in Technology",
+      "content": "Exploring how AI is revolutionizing the tech industry.",
+      "tags": ["Technology", "AI", "Innovation"],
+      "username": "tech_guru",
+      "userImage": "https://example.com/user1.jpg",
+      "publishDate": "2024-08-29",
+      "upvote": 120,
+      "downvote": 5
+    },
+    {
+      "id": 2,
+      "title": "Top 10 Healthy Habits for a Better Life",
+      "content": "Adopt these habits to improve your health and well-being.",
+      "tags": ["Health", "Wellness", "Lifestyle"],
+      "username": "health_freak",
+      "userImage": "https://example.com/user2.jpg",
+      "publishDate": "2024-08-28",
+      "upvote": 95,
+      "downvote": 10
+    },
+    {
+      "id": 3,
+      "title": "Exploring the Best Travel Destinations of 2024",
+      "content": "Discover the top travel spots you must visit this year.",
+      "tags": ["Travel", "Adventure", "Vacation"],
+      "username": "wanderlust",
+      "userImage": "https://example.com/user3.jpg",
+      "publishDate": "2024-08-27",
+      "upvote": 150,
+      "downvote": 12
+    },
+    {
+      "id": 4,
+      "title": "Delicious Food Recipes for the Weekend",
+      "content": "Try these amazing recipes to make your weekend special.",
+      "tags": ["Food", "Recipes", "Cooking"],
+      "username": "foodie_lover",
+      "userImage": "https://example.com/user4.jpg",
+      "publishDate": "2024-08-26",
+      "upvote": 200,
+      "downvote": 8
+    },
+    {
+      "id": 5,
+      "title": "The Impact of Online Education",
+      "content": "How online learning is shaping the future of education.",
+      "tags": ["Education", "E-Learning", "Technology"],
+      "username": "edu_expert",
+      "userImage": "https://example.com/user5.jpg",
+      "publishDate": "2024-08-25",
+      "upvote": 180,
+      "downvote": 15
+    },
+    {
+      "id": 6,
+      "title": "Top Sports Moments of the Year",
+      "content": "Relive the best sports moments from the past year.",
+      "tags": ["Sports", "Highlights", "Athletics"],
+      "username": "sports_fan",
+      "userImage": "https://example.com/user6.jpg",
+      "publishDate": "2024-08-24",
+      "upvote": 220,
+      "downvote": 20
+    },
+    {
+      "id": 7,
+      "title": "Latest Trends in Entertainment",
+      "content": "What's hot in movies, music, and more.",
+      "tags": ["Entertainment", "Movies", "Music"],
+      "username": "entertainment_buff",
+      "userImage": "https://example.com/user7.jpg",
+      "publishDate": "2024-08-23",
+      "upvote": 175,
+      "downvote": 18
+    },
+    {
+      "id": 8,
+      "title": "Business Strategies for 2024",
+      "content": "Key strategies to grow your business in the coming year.",
+      "tags": ["Business", "Strategy", "Entrepreneurship"],
+      "username": "biz_guru",
+      "userImage": "https://example.com/user8.jpg",
+      "publishDate": "2024-08-22",
+      "upvote": 130,
+      "downvote": 25
+    },
+    {
+      "id": 9,
+      "title": "Lifestyle Tips for a Balanced Life",
+      "content": "How to maintain balance in a fast-paced world.",
+      "tags": ["Lifestyle", "Balance", "Wellness"],
+      "username": "lifestyle_enthusiast",
+      "userImage": "https://example.com/user9.jpg",
+      "publishDate": "2024-08-21",
+      "upvote": 140,
+      "downvote": 9
+    },
+    {
+      "id": 10,
+      "title": "Advances in Space Science",
+      "content": "Recent discoveries and advancements in space exploration.",
+      "tags": ["Science", "Space", "Technology"],
+      "username": "science_geek",
+      "userImage": "https://example.com/user10.jpg",
+      "publishDate": "2024-08-20",
+      "upvote": 210,
+      "downvote": 7
+    }
+]
+  
